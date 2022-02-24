@@ -1,4 +1,4 @@
-# full_stack_app
+# food_ordering_app
 
 A new Flutter application.
 
